@@ -1,0 +1,138 @@
+title = "Liberty for Hong Kong"
+baseURL = "/"
+languageCode = "en-us"
+theme = "airspace-hugo"
+
+# The site's parameters
+[params]
+  home = "Home"
+  
+  [menu]
+
+    [[menu.header]]
+      weight = 2
+      name = "About"
+      url = "/about/"
+	  
+    [[menu.header]]
+      weight = 3
+      name = "Philosophy"
+      url = "/philosophy/"
+	  
+    [[menu.header]]
+      weight = 4
+      name = "Art"
+      url = "/art/"
+	  
+	[[menu.header]]
+      weight = 5
+      name = "Music"
+      url = "/music/"
+    
+	[[menu.header]]
+      weight = 6
+      name = "Timeline"
+      url = "/timeline-aelab/"
+	
+	[[menu.header]]
+      weight = 7
+      name = "Contribute"
+      url = "/contribute/"
+	  
+#	[[menu.header]]
+#      Name = "參與"
+#      identifier = "get-involved"
+#      URL = "#"
+#      Weight = 2.0
+
+#	[[menu.header]]
+#      Name = "加入我們"
+#      parent = "get-involved"
+#      URL = "/volunteer"
+#      Weight = 1.0
+
+#	[[menu.header]]
+#      Name = "支助我們"
+#      parent = "get-involved"
+#      URL = "/support-us/"
+#      Weight = 2.0
+
+#  [[menu.footer]]
+#      weight = 1
+#      name = "About us"
+#      url = "#"
+	  
+#  [[menu.footer]]
+#      weight = 2
+#      name = "Contact us"
+#      url = "contact"
+#    [[menu.footer]]
+#      weight = 3
+#      name = "How it works"
+#      url = "work"
+#    [[menu.footer]]
+#      weight = 4
+#      name = "Blog"
+#      url = "blog"
+#    [[menu.footer]]
+#      weight = 5
+#      name = "Terms"
+#      url = "#"
+
+  [params.logo]
+    logo_path = "img/site-images/banner.png"
+  [params.slider]
+    enable = true
+    title = "Liberty for Hong Kong"
+    subtitle = "A collaborative project on the Hong Kong's road to freedom"
+    bgImage = "img/NINTCHDBPICT000498068602-1.jpg"
+    btnText = "Discover"
+    url = "#"
+
+  [params.wrapper]
+    enable = true
+    image = "img/hk-teargas-tennis.jpg"
+    title = "About L4HK"
+    italic = "L4HK is a collaborative project to crowdsource and document Hong Kong's journey to achieving meaningful freedom, democracy, and autonomy. This project was first created in the wake of the 2019 Anti-Extradition Bill protests. Check us out on GitHub."
+
+  [params.blog]
+    enable = false
+    title = "Get The Latest On What We're doing"
+    subtitle = "Catch up with us, anytime and anywhere"
+
+  [params.feature]
+    enable = true
+    title = "Liberate Hong Kong, A Revolution of Our Time"
+    bgImage = "img/calendar-protest-wide.jpg"
+    content = "The 2019 protests were more than merely opposition against a legislative bill. It was a fully fledged movement that helped Hong Kongers discovered their identity, and generated large volumes of cultural artefacts such as music and art."
+    [params.feature.button]
+      caption = "View more"
+      url = "#"
+
+  [params.call]
+    enable = true
+    bgImage = "img/call-to-action-bg.jpg"
+    title = "Contribute"
+    paragraph = "Don't let our movement be neglected or forgotten. You can contribute text, code, images, or videos - simply submit a pull a request on GitHub."
+	
+    [params.call.button]
+      url = "/contribute/"
+      text = "Contribute"
+
+  [params.contact]
+    enable = false
+    title = "Drop us a note"
+    subtitle = "Don’t just take our word for it. Check out some of our latest work."
+    [params.contact.form]
+      name = "Your name"
+      email = "Your email"
+      subject = "Your subject"
+      message = "Your message"
+      button = "Send message"
+    [params.contact.box]
+      title = "Stop by for a visit"
+      address = "North Main Street, Brooklyn Australia"
+      email = "Email: contact@mail.com"
+      phone = "Phone: +88 01672 506 744"
+    [params.contact.gmaps]
+      title = "We Also Count in Google Maps"
