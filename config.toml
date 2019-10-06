@@ -18,16 +18,30 @@ theme = "airspace-hugo"
       weight = 3
       name = "Philosophy"
       url = "/philosophy/"
-	  
-    [[menu.header]]
-      weight = 4
-      name = "Art"
-      url = "/art/"
-	  
+	
 	[[menu.header]]
-      weight = 5
-      name = "Music"
-      url = "/music/"
+      Name = "Artefacts"
+      identifier = "artefacts"
+      URL = "#"
+      Weight = 4
+
+	[[menu.header]]
+      Name = "Art"
+      parent = "artefacts"
+      URL = "/art/"
+      Weight = 1.0
+
+	[[menu.header]]
+      Name = "Music"
+      parent = "artefacts"
+      URL = "/music/"
+      Weight = 2.0
+	
+	[[menu.header]]
+      Name = "Writing"
+      parent = "artefacts"
+      URL = "/writing/"
+      Weight = 3.0
     
 	[[menu.header]]
       weight = 6
@@ -38,24 +52,6 @@ theme = "airspace-hugo"
       weight = 7
       name = "Contribute"
       url = "/contribute/"
-	  
-#	[[menu.header]]
-#      Name = "參與"
-#      identifier = "get-involved"
-#      URL = "#"
-#      Weight = 2.0
-
-#	[[menu.header]]
-#      Name = "加入我們"
-#      parent = "get-involved"
-#      URL = "/volunteer"
-#      Weight = 1.0
-
-#	[[menu.header]]
-#      Name = "支助我們"
-#      parent = "get-involved"
-#      URL = "/support-us/"
-#      Weight = 2.0
 
 #  [[menu.footer]]
 #      weight = 1
