@@ -3,7 +3,9 @@ Collaborative repo for the Hugo site. Pull requests welcome.
 
 This site is currently under construction and we can only accept articles. Please find submission instructions below.
 
-## How to contribute articles - using this repository
+## How to contribute using this repository
+
+### Contributing articles
 
 _Pre-requisites:_ you'll need a GitHub account. If you're unfamiliar with Markdown, it will also be helpful to use a Markdown editor such as [Typora (for Windows users)](https://typora.io/), [Notepad++](https://notepad-plus-plus.org/), or [ghostwriter](https://wereturtle.github.io/ghostwriter/). 
 
@@ -12,15 +14,17 @@ _Pre-requisites:_ you'll need a GitHub account. If you're unfamiliar with Markdo
 
 Please refer to the contributing guide for more information.
 
-## How to contribute changes to existing pages - using this repository (advanced)
+### Contributing changes to existing pages
 
 You can also contribute changes to existing pages, where the main difference is that you are editing a page, as opposed to adding a new document to the repository. Once you are happy with your edits, commit your changes and submit a pull request. We will try to review within 3-4 days and the changes will be live on the site if no changes are required. 
 
-## How to contribute new pages - using this repository (advanced)
+### Contributing new pages
 
 You can also contribute new pages, where the main differences versus the process for contribute articles are:
 
 - The Markdown documents should be saved directly under `content`, and **not** `content/writing`
 - The content of these pages should be meaningfully different from the page categories that currently exist on the site (e.g. Art, Music, Writing), or at least be significant enough as a stand-alone subject. 
 
+## How to contribute by email / form
 
+Functionality coming soon.
