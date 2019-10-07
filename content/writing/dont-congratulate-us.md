@@ -5,12 +5,13 @@ description = ""
 tags = ["repost"]
 categories = ["pseudo"]
 class = ["post"]
+author = "Orhac"
 summary = "I've been getting messages from expats and friends from overseas, congratulating the people of HK for a job well done. It's not a job well done."
 image = "/img/protestor-tg.jpg"
 +++
 
 <p><small class="text-muted">
-Originally by <a href="https://www.reddit.com/r/HongKong/comments/cziwwl/if_youve_come_to_congratulate_us_dont_our/">Orhac on Reddit</a>
+Originally by Orhac on <a href="https://www.reddit.com/r/HongKong/comments/cziwwl/if_youve_come_to_congratulate_us_dont_our/">Reddit</a>
 </small></p>
 
 I've been getting messages from expats and friends from overseas, congratulating the people of HK for a job well done. It's not a job well done. All that's happened is Carrie Lam finally doing what she should have done from the start, at extremely low political cost, trying to cool HK off before the Oct 1st National Day festivities to save face for the CCP, and maybe in response to the Human Rights and Democracy Act.
