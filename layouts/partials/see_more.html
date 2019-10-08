@@ -1,0 +1,23 @@
+{{ if isset .Site.Params "see_more" }}
+{{ if .Site.Params.see_more.enable }}
+<!-- Previously this was background-image-fixed-2 -->
+<!-- See custom css -->
+<section class="bar background-image-fixed-3 no-mb color-white text-center">
+    <div class="dark-mask"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="icon icon-lg"><i class="{{ .Site.Params.see_more.icon }}"></i>
+                </div>
+                <h1 class="text-uppercase">{{ .Site.Params.see_more.title }}</h3>
+                <p class="lead">{{ .Site.Params.see_more.subtitle }}</p>
+                <p class="text-center">
+				<a class="btn btn-main btn-solid-border" href="{{ .Site.Params.see_more.link_url }}" >{{ .Site.Params.see_more.link_text }}</a>
+                </p>											
+            </div>
+
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}

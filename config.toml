@@ -89,12 +89,20 @@ theme = "airspace-hugo"
     enable = true
     image = "img/hk-teargas-tennis.jpg"
     title = "About L4HK"
-    italic = "L4HK is a collaborative project to crowdsource and document Hong Kong's journey to achieving meaningful freedom, democracy, and autonomy. This project was first created in the wake of the 2019 Anti-Extradition Bill protests. Check us out on GitHub."
+    italic = "L4HK is a collaborative project to crowdsource and document Hong Kong's journey to achieving meaningful freedom, democracy, and autonomy. This project was first created in the wake of the 2019 Anti-Extradition Bill protests."
 
   [params.blog]
     enable = false
     title = "Get The Latest On What We're doing"
     subtitle = "Catch up with us, anytime and anywhere"
+  
+  [params.see_more]
+    enable = true
+    icon = "fa fa-medkit"
+    title = "Revolution of Our Time"
+    subtitle = "How it all started"
+    link_url = "/timeline/"
+    link_text = "See more"
 
   [params.feature]
     enable = true
