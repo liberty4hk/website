@@ -16,3 +16,5 @@ bgImage = "img/slider-bg.jpg"
 
 ## Five demands, no less
 五大訴求 缺一不可
+
+## 終有一日，我哋會喺煲底除底口罩面罩相擁，各位手足未來見
