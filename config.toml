@@ -14,10 +14,10 @@ theme = "airspace-hugo"
       name = "About"
       url = "/about/"
 	  
-    [[menu.header]]
-      weight = 3
-      name = "Philosophy"
-      url = "/philosophy/"
+#    [[menu.header]]
+#      weight = 3
+#      name = "Philosophy"
+#      url = "/philosophy/"
 	
 	[[menu.header]]
       Name = "Artefacts"
@@ -47,8 +47,7 @@ theme = "airspace-hugo"
       weight = 4.0
 	  identifier = "facts"
       name = "Facts"
-      url = "#"
-	  
+      url = "#"	  
     
 	[[menu.header]]
       weight = 6
