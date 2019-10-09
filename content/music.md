@@ -64,7 +64,7 @@ English version also available on SoundCloud:
 
 ### Sing Hallelujah to the Lord
 
-### FUCKTHEPOPO/屌狗
+### FUCKTHEPOPO/屌狗 by JB
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ukhKS3aaHxE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -109,3 +109,7 @@ Fuck the popo<br>
 我屌你老母(我屌你老母)<br>
 Fuck the popo<br>
 我屌你老母 yea X2
+
+### 二零一九 by LMF
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0UWKctPom6A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
