@@ -6,6 +6,7 @@ tags = ["repost"]
 categories = ["pseudo"]
 class = ["post"]
 author = "Orhac"
+site_category = "writing"
 summary = "I've been getting messages from expats and friends from overseas, congratulating the people of HK for a job well done. It's not a job well done."
 image = "/img/protestor-tg.jpg"
 +++

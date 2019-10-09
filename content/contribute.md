@@ -8,13 +8,17 @@ bgImage = "img/slider-bg.jpg"
 
 This page is currently under active development, and welcome all kinds of contribution where possible. For more information, please check out our [GitHub repository](https://github.com/liberty4hk/website).
 
-## How to contribute using this repository
+## How to contribute using GitHub repository
 
 ### Contributing articles
 
 _Pre-requisites:_ you'll need a GitHub account. If you're unfamiliar with Markdown, it will also be helpful to use a Markdown editor such as [Typora (for Windows users)](https://typora.io/), [Notepad++](https://notepad-plus-plus.org/), or [ghostwriter](https://wereturtle.github.io/ghostwriter/). 
 
-1. Create a Markdown post (files with the extension `.md`) and commit, placing this in the `content/writing` sub-directory. You can either do this by **creating a new file** or **uploading a file**. Please ensure that your article properly specifies all the required fields, such as author, date, source, etc. If you are unfamiliar with Markdown formatting, check out this [documentation](https://markdown-guide.readthedocs.io/en/latest/basics.html).
+1. Create a Markdown post (files with the extension `.md`) and commit, placing this in the `content/writing` sub-directory. 
+    - You can either do this by **creating a new file** or **uploading a file**. 
+    - Please ensure that your article properly specifies all the required fields, such as author, date, source, etc. If you are unfamiliar with Markdown formatting, check out this [documentation](https://markdown-guide.readthedocs.io/en/latest/basics.html).
+    - You can check out the **Raw** version of [this post](https://github.com/liberty4hk/website/blob/master/content/writing/dont-congratulate-us.md) as a template guide.
+
 2. Create a pull request. The admins of this site will try to review the PR as soon as we can, within 3-4 days (please understand - we are all volunteers here!) 
 
 Please refer to the contributing guide for more information.

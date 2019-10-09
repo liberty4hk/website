@@ -26,10 +26,17 @@
 	      </div>
 	    </div>
 	  </section>
-	</div>
-	<p class="center-text" style="padding: 30px;">
+	</div>	
+	<!-- Must set site_category in each page -->
+	
+	{{ if isset .Params "site_category" }}
+		<p class="center-text" style="padding: 30px;">
+		<a class="btn btn-main" href="{{ $.Site.BaseURL }}/{{ .Params.site_category }}">Back</a>
+		</p>
+	{{ end }}		
+	<!--
 	  <a class="btn btn-main" href="{{ $.Site.BaseURL }}/writing">Back to Writing</a>
-	</p>
+	  -->
 
 	{{ if and (isset .Site.Params "call") (.Site.Params.call.enable) }}
 		{{ partial "call-to-action.html" . }}

@@ -16,11 +16,14 @@
 				<div class="col-md-6">
 					<article class="blog-post">
 						{{ with .Params.image }}
-						<img src="{{ . | absURL }}" class="img-responsive" alt="post-thumb"> {{ end }}
+						<img src="{{ . | absURL }}" class="img-responsive" alt="post-thumb"> 
+						{{ end }}
 						<a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a>
-						<p>
-							{{ .Summary }}
-						</p>
+						{{ if isset .Params "author"}}
+							<small class="text-muted">By {{ .Params.author }} </small>
+						{{ end }}
+						<p>	{{ .Summary }} </p>
+
 						<a href="{{ .Permalink }}" class="btn btn-main">Read More</a>
 					</article>
 				</div>

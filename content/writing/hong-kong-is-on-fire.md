@@ -5,9 +5,10 @@ description = ""
 tags = ["repost"]
 categories = ["pseudo"]
 class = ["post"]
+site_category = "writing"
 author = "Orhac"
 summary = "Fury. I could see it in the eyes of the people around me, our minds reeling from the bombshell that our government had just dropped on us this afternoon."
-image = "/img/protestor-tg.jpg"
+image = "/img/police-fire-tg.jpg"
 +++
 
 <p><small class="text-muted">

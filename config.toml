@@ -42,10 +42,18 @@ theme = "airspace-hugo"
       parent = "artefacts"
       URL = "/writing/"
       Weight = 3.0
+	
+	[[menu.header]]
+      weight = 4.0
+	  identifier = "facts"
+      name = "Facts"
+      url = "#"
+	  
     
 	[[menu.header]]
       weight = 6
       name = "Timeline"
+	  parent = "facts"
       url = "/timeline-aelab/"
 	
 	[[menu.header]]
@@ -106,7 +114,7 @@ theme = "airspace-hugo"
     icon = "fa fa-fist-raised"
     title = "Revolution of Our Time"
     subtitle = "How it all started"
-    link_url = "/timeline/"
+    link_url = "/timeline-aelab/"
     link_text = "See more"
 
   [params.feature]
@@ -116,7 +124,7 @@ theme = "airspace-hugo"
     content = "The 2019 protests were more than merely opposition against a legislative bill. It was a fully fledged movement that helped Hong Kongers discovered their identity, and generated large volumes of cultural artefacts such as music and art."
     [params.feature.button]
       caption = "View more"
-      url = "#"
+      url = "/about/"
 
   [params.call]
     enable = true
