@@ -3,9 +3,9 @@ title = "Be Water / 自游"
 date = "2019-10-10"
 bgImage = "img/slider-bg.jpg"
 site_category = "music"
-# author = ""
+author = "癲佬音樂deenlomusic"
 summary = "An original song dedicated to HKers"
-# image = "img/music/hear-the-people-sing.jpg"
+image = "img/music/be-water.jpg"
 +++
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W7AZdzXXJQc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

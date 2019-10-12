@@ -120,11 +120,12 @@ theme = "airspace-hugo"
 
   [params.logo]
     logo_path = "img/site-images/banner.png"
+	
   [params.slider]
     enable = true
     title = "Liberty for Hong Kong"
     subtitle = "A collaborative project documenting Hong Kong's road to freedom"
-    bgImage = "img/NINTCHDBPICT000498068602-1.jpg"
+    bgImage = "img/612-central.jpg"
     btnText = "Discover"
     url = "/about/"
 
