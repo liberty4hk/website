@@ -6,4 +6,6 @@ bgImage = "img/slider-bg.jpg"
 
 ## Art
 
-This page is currently under construction.
+A gallery showcasing the artwork produced during the 2019 protests.
+
+{{< foldergallery src="img/art/" >}}

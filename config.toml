@@ -45,9 +45,9 @@ theme = "airspace-hugo"
       Weight = 4
 
 	[[menu.header]]
-      Name = "Art (coming soon)"
+      Name = "Art"
       parent = "artefacts"
-      URL = "#"
+      URL = "/art/"
       Weight = 1.0
 
 	[[menu.header]]
@@ -69,14 +69,20 @@ theme = "airspace-hugo"
       url = "#"	  
     
 	[[menu.header]]
-      weight = 6
+      weight = 1.0
       name = "Timeline"
       parent = "facts"
       url = "/timeline-aelab/"
 
 	[[menu.header]]
-      weight = 6
+      weight = 2.0
       name = "Fact Check (coming soon)"
+      parent = "facts"
+      url = "#"
+	
+	[[menu.header]]
+      weight = 3.0
+      name = "Documentary (coming soon)"
       parent = "facts"
       url = "#"
 	
