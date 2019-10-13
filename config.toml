@@ -27,9 +27,9 @@ theme = "airspace-hugo"
       Weight = 1.0
 	
 	[[menu.header]]
-      Name = "Slogan (coming soon)"
+      Name = "Slogans"
       parent = "philosophy"
-      URL = "#"
+      URL = "/slogans/"
       Weight = 1.0
 
 	[[menu.header]]
@@ -161,7 +161,7 @@ theme = "airspace-hugo"
     enable = true
     bgImage = "img/call-to-action-bg.jpg"
     title = "Contribute"
-    paragraph = "Don't let our movement be neglected or forgotten. You can contribute text, code, images, or videos - simply submit a pull a request on GitHub."
+    paragraph = "Don't let our work be neglected or forgotten. You can contribute text, code, images, or videos - simply submit a pull a request on GitHub."
 	
     [params.call.button]
       url = "/contribute/"
