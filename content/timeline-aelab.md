@@ -13,6 +13,7 @@ bgImage = "img/slider-bg.jpg"
 	<h4>Jump to:</h4>
 	<a class="btn btn-primary" href="#section-721" role="button">7.21</a>
 	<a class="btn btn-primary" href="#section-811" role="button">8.11</a>
+	<a class="btn btn-primary" href="#section-831" role="button">8.31</a>	
 	<a class="btn btn-primary" href="#section-0904" role="button">9.4 (Full Bill Withdrawal)</a>
 	
     <ul class="timeline">
@@ -41,6 +42,7 @@ bgImage = "img/slider-bg.jpg"
             </div>
           </div>
         </li>
+		
         <li class="timeline-inverted">
           <div class="timeline-badge"><i class="glyphicon glyphicon-chevron-down"></i></div>
           <div class="timeline-panel">
@@ -51,9 +53,13 @@ bgImage = "img/slider-bg.jpg"
             <div class="timeline-body">  
               <p>An estimated one million people marched to the government headquarters to show they were against the proposed bill.</p><hr>
 			  <img src="/img/protest-june-9.jpg" width="70%">
-            </div>
+            </div>			
           </div>
+		  <iframe width="560" height="315" src="https://www.youtube.com/embed/PCyrJTmUpNQ?start=10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>		  
         </li>
+		
+		
+		
         <li>
           <div class="timeline-badge"><i class="glyphicon glyphicon-chevron-down"></i></div>
           <div class="timeline-panel">
@@ -87,6 +93,7 @@ bgImage = "img/slider-bg.jpg"
             <div class="timeline-body">
               <p>Despite this, an estimated two million people took to the streets the following day, 16 June, demanding the bill be withdrawn completely and calling for Ms Lam's resignation.</p>
               <hr>
+			  <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">3.20pm - 4pm Time Lapse continues to show protestors trying to leave Victoria Park and those on Causeway Bay <a href="https://twitter.com/hashtag/616%E9%BB%91%E8%A1%A3%E5%A4%A7%E9%81%8A%E8%A1%8C?src=hash&amp;ref_src=twsrc%5Etfw">#616黑衣大遊行</a> <a href="https://twitter.com/hashtag/616protest?src=hash&amp;ref_src=twsrc%5Etfw">#616protest</a> <a href="https://twitter.com/hashtag/NoToChinaExtradition?src=hash&amp;ref_src=twsrc%5Etfw">#NoToChinaExtradition</a> <a href="https://twitter.com/hashtag/%E9%A6%99%E6%B8%AF%E4%BA%BA%E5%8A%A0%E6%B2%B9?src=hash&amp;ref_src=twsrc%5Etfw">#香港人加油</a> <a href="https://t.co/H6N4LBNuQs">pic.twitter.com/H6N4LBNuQs</a></p>&mdash; A Girl from HK (@girlinhk) <a href="https://twitter.com/girlinhk/status/1140168911750488064?ref_src=twsrc%5Etfw">June 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
           </div>
         </li>
@@ -151,9 +158,11 @@ bgImage = "img/slider-bg.jpg"
               <p>On 21 July, protesters defaced China's Liaison Office in Hong Kong. </p><hr>
 			  <p>That same night, mobs of men wearing white-shirts attack commuters in Yuen Long underground station - near mainland China- in a new escalation of violence.</p>
 			  <p>Some suspected these were members of gangs called triads and pointed out that police arrived very late to stop them.</p>
+			  <img src="/img/timeline-aelab/yuen-long-plus-cops-960x540.jpg" style="width:80%">
             </div>
           </div>
         </li>
+		
 		<li class="timeline-inverted">
           <div class="timeline-badge info"><i class="glyphicon glyphicon-chevron-down"></i></div>
           <div class="timeline-panel">
@@ -166,6 +175,7 @@ bgImage = "img/slider-bg.jpg"
             </div>
           </div>
         </li>
+		
 		<a id="section-811"></a>
 		<li class="timeline-inverted">
           <div class="timeline-badge info"><i class="glyphicon glyphicon-chevron-down"></i></div>
@@ -175,11 +185,33 @@ bgImage = "img/slider-bg.jpg"
 			  <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i> August 11, 2019 </small></p>	  
             </div>
             <div class="timeline-body">
-              <p>On 11 August, police stormed enclosed railway stations, firing tear gas at protesters, leading yet again to dramatic scenes of confrontation. During the violence that Sunday, one protester was injured in her eye, which became a symbol of the protest movement.</p><hr>
+              <p>On 11 August, police stormed enclosed railway stations, firing tear gas at protesters, leading yet again to dramatic scenes of confrontation. During the violence that Sunday, one protester was injured in her eye, which became a symbol of the protest movement.</p>
+			  <img src="/img/timeline-aelab/beanbag-round.jpg" style="width:80%">
+			  <hr>
 			  <p> The next day, on 12 August, protesters gathered at the airport, leading to hundreds of flights being cancelled.</p>
+			  
             </div>
           </div>
         </li>
+		
+		<a id="section-831"></a>
+		<li class="timeline-panel">
+          <div class="timeline-badge info"><i class="glyphicon glyphicon-chevron-down"></i></div>
+          <div class="timeline-panel">
+            <div class="timeline-heading">			
+              <h4 class="timeline-title">Prince Edward MTR incident</h4>
+			  <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i> August 31, 2019 </small></p>	  
+            </div>
+            <div class="timeline-body">
+              <p>Just before 11 pm on August 31, riot police, including members of the Special Tactical Squad “Raptors”, stormed the Prince Edward subway station in Mong Kok. During the ensuing chaos, riot police were filmed by journalists rushing into subway carriages and viciously and indiscriminately assaulting passengers with batons and pepper spray, leaving many passengers cowering and bleeding.</p>
+			  <iframe src="https://www.youtube.com/embed/4UcEY1tuVm4?start=21" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:100%"></iframe>
+			  <hr>
+			  <p>The refusal of MTR in releasing the full CCTV footage is a major source of criticism, fuelling public distrust in the institution.</p>
+			  
+            </div>
+          </div>
+        </li>
+		
 		<a id="section-0904"></a>
 		<li class="timeline-inverted">
           <div class="timeline-badge info"><i class="glyphicon glyphicon-chevron-down"></i></div>
