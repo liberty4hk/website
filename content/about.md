@@ -26,11 +26,8 @@ The 2019 protests against the controversial extradition bill in Hong Kong uneart
 
 <a href="https://www.leungsumshops.com/" class="btn btn-primary" role="button">香港良心Guide</a><br>
 <a href="https://guardiansofhk.com/" class="btn btn-primary" role="button">Guardians of Hong Kong</a><br>
-<a href="https://www.wearehkers.com/main-english" class="btn btn-primary" role="button">We are HKERS</a>
+<a href="https://www.wearehkers.com/main-english" class="btn btn-primary" role="button">We are HKERS</a><br>
 <a href="https://www.helphk.info/" class="btn btn-primary" role="button">Help Hong Kong</a>
-
-
-
 
 [^1]: https://blog.twitter.com/en_us/topics/company/2019/information_operations_directed_at_Hong_Kong.html
 [^2]: https://www.theguardian.com/world/2019/aug/12/hong-kong-protests-brutal-undercover-police-tactics-spark-outcry
