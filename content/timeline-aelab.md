@@ -118,7 +118,8 @@ bgImage = "img/slider-bg.jpg"
 			  <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i> July 1, 2019 </small></p>	  
             </div>
             <div class="timeline-body">
-              <p>On 1 July, the anniversary of Hong Kong's handover from the UK to China, the Legislative Council (LegCo) building was stormed by protesters who sprayed graffiti on the walls, displayed the colonial-era flag and defaced Hong Kong's regional emblem.</p>
+              <p>On 1 July, the anniversary of Hong Kong's handover from the UK to China, the Legislative Council (LegCo) building was stormed by protesters who sprayed graffiti on the walls, displayed the colonial-era flag and defaced Hong Kong's regional emblem.</p><hr>
+			  <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Before &amp; after - <a href="https://twitter.com/hashtag/legco?src=hash&amp;ref_src=twsrc%5Etfw">#legco</a> chamber and corridor reopens after July 1 break in. The graffiti that says &quot;it is you who taught us peaceful marches were useless&quot; has been painted over. <a href="https://twitter.com/hashtag/antielab?src=hash&amp;ref_src=twsrc%5Etfw">#antielab</a> <a href="https://t.co/H1HvUK1r0e">pic.twitter.com/H1HvUK1r0e</a></p>&mdash; Lok. (@sumlokkei) <a href="https://twitter.com/sumlokkei/status/1181399674181185541?ref_src=twsrc%5Etfw">October 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
           </div>
         </li>
@@ -151,7 +152,7 @@ bgImage = "img/slider-bg.jpg"
           <div class="timeline-badge info"><i class="glyphicon glyphicon-chevron-down"></i></div>
           <div class="timeline-panel">
             <div class="timeline-heading">			
-              <h4 class="timeline-title">Extradition Bill declared dead</h4>
+              <h4 class="timeline-title">Yuen Long Triad Terrorism</h4>
 			  <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i> July 21, 2019 </small></p>	  
             </div>
             <div class="timeline-body">
@@ -226,4 +227,21 @@ bgImage = "img/slider-bg.jpg"
           </div>
         </li>
     </ul>
+	
+	<ul class="timeline">
+		<li class="timeline-inverted">
+          <div class="timeline-badge info"><i class="glyphicon glyphicon-chevron-down"></i></div>
+          <div class="timeline-panel">
+            <div class="timeline-heading">			
+              <h4 class="timeline-title">Thousands rally in Hong Kong to urge U.S. to pass Hong Kong human rights act</h4>
+			  <p><small class="text-muted"><i class="glyphicon glyphicon-calendar"></i> October 14, 2019 </small></p>	  
+            </div>
+            <div class="timeline-body">
+              <p>Tens of thousands of Hong Kongers marched to urge the US Congress to enact the Hong Kong Human Rights and Democracy Act.</p><hr>
+			  <blockquote class="twitter-tweet"><p lang="en" dir="ltr">More than one hundred thousand Hongkongers packed the streets of Central tonight, in a rally to support the US Congress’s “Hong Kong Human Rights And Democracy Act”.<br><br>The act will be voted by the house of representatives on 15/10, Tuesday.<a href="https://twitter.com/hashtag/StandwithHK?src=hash&amp;ref_src=twsrc%5Etfw">#StandwithHK</a> <a href="https://t.co/MeuLnnKmn2">pic.twitter.com/MeuLnnKmn2</a></p>&mdash; Denise Ho (HOCC)💪🏿😷 (@hoccgoomusic) <a href="https://twitter.com/hoccgoomusic/status/1183750109013655555?ref_src=twsrc%5Etfw">October 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+          </div>
+        </li>
+	
+	</ul>		
 </div>
