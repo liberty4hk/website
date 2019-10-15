@@ -31,6 +31,9 @@ These are websites which share a common cause with us. Do check them out!
 <a href="https://www.wearehkers.com/main-english" class="btn btn-primary" role="button">We are HKERS</a><br>
 <a href="https://www.helphk.info/" class="btn btn-primary" role="button">Help Hong Kong</a><br>
 <a href="https://freedomhongkong.org/en/" class="btn btn-primary" role="button">Freedom Hong Kong</a>
+<a href="https://www.wordsofmouth.net/" class="btn btn-primary" role="button">Words of Mouth</a>
+
+
 
 [^1]: https://blog.twitter.com/en_us/topics/company/2019/information_operations_directed_at_Hong_Kong.html
 [^2]: https://www.theguardian.com/world/2019/aug/12/hong-kong-protests-brutal-undercover-police-tactics-spark-outcry
