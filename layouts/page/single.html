@@ -10,9 +10,18 @@
 	{{ if isset .Params "id" }}
 		{{ partial .Params.id . }}
 	{{ else }}
-	<div class="container">
-        {{ .Content }}
-    </div>
+	
+	<section class="section" style="border: 1px dotted #ddd;">	
+		<div class="block">
+			{{ with .Params.image }}<img src="{{ . | absURL }}" width="100%" alt="post-image"> {{ end }}
+			<h1>{{ .Params.title }}</h1>
+		</div>
+		<div class="container">
+			<div class="row">
+				<p>{{ .Content }}</p>
+			</div>
+		</div>
+	</section>	
 
 	{{ end }}
 

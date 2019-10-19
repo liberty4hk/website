@@ -73,6 +73,12 @@ theme = "airspace-hugo"
       name = "Timeline"
       parent = "facts"
       url = "/timeline-aelab/"
+	  
+	[[menu.header]]
+      weight = 1.5
+      name = "Declaration of Hong Kong Protestors"
+      parent = "facts"
+      url = "/declaration-july-1/"
 
 	[[menu.header]]
       weight = 2.0
@@ -84,7 +90,7 @@ theme = "airspace-hugo"
       weight = 3.0
       name = "Documentary (coming soon)"
       parent = "facts"
-      url = "#"
+      url = "#" 
 	
 	[[menu.header]]
       weight = 7

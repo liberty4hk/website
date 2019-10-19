@@ -1,15 +1,16 @@
 +++
-title = "About"
+title = "Timeline - 2019 Protests"
 # id = "work"
 bgImage = "img/slider-bg.jpg"
+image = "img/NINTCHDBPICT000498068602-1.jpg"
 +++
 
-## Timeline - 2019 Protests
-
 <div class="container">
-    <div class="page-header">
+    <!--
+	<div class="page-header">
         <h1 id="timeline">Timeline</h1>
     </div>
+	-->
 	<h4>Jump to:</h4>
 	<a class="btn btn-primary" href="#section-721" role="button">7.21</a>
 	<a class="btn btn-primary" href="#section-811" role="button">8.11</a>
