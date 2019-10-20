@@ -10,31 +10,31 @@ subtitle: Documentary relating to the Hong Kong, organised by theme
 # Populate documentaries here
 portfolio:
   - category: Videos
-    image: "/img/documentary/hong-kong-not-the-same.jpg"
+    image: "img/documentary/hong-kong-not-the-same.jpg"
     name: 鏗鏘集：香港不一樣
     url_lin: https://www.youtube.com/embed/Ze-m4_oneFk
     description: "經過三個月的群眾活動，特區政府終於由「暫緩」變成「壽終正寢」再變成「撤回」《逃犯條例》，有人認為政府可算是回應了，民間「五大訴求」嘅第一訴求，然而部分人認為香港已經變了，回不了過去。他們怎樣形容這個變了樣的香港？"
     
   - category: Videos
-    image: "/img/documentary/whose-truth.jpg"
+    image: "img/documentary/whose-truth.jpg"
     name: 鏗鏘集：誰的真相?
     url_link: https://www.youtube.com/embed/eg2kzBGbkB0/
     description: "反修例運動曠日持久，網上湧現龐大資訊。Fact check（事實查核）成為這年夏天的共同回憶，但「黃絲」、「藍絲」眼中的「真相」卻越走越遠。這一集，我們走進「黃絲」、「藍絲」的資訊世界，看看兩者如何大不同。"
 
   - category: Videos
-    image: "/img/documentary/police-conscience.jpg"
+    image: "img/documentary/police-conscience.jpg"
     name: 我的哥哥是警察
     url_link: https://www.youtube.com/embed/3IVR_96M-6A/
     description: "他與哥哥立場不同，他認為警隊整個前線失控，為什麼只得前線的示威者要承受刑責，而警隊就沒有責任？"   
 
   - category: Videos
-    image: "/img/documentary/ethnic-minority.jpg"
+    image: "img/documentary/ethnic-minority.jpg"
     name: 南亞裔的和理非 催淚剖白
     url_link: https://www.youtube.com/embed/U4BfemNLUQ4/
     description: "【#南亞裔 和理非】和毛毛（化名）萍水相逢，相識於一個反送中集會，一見如故。他健碩的體格、從容的微笑、流利的廣東話.....為甚麼要強調這一點？因為他是一個巴基斯坦裔的香港人。"       
     
   - category: Videos
-    image: "/img/documentary/october-1st.jpg"
+    image: "img/documentary/october-1st.jpg"
     name: 鏗鏘集：記10.1
     url_link: https://www.youtube.com/embed/1jDJYhGTsxk/
     description: "2019年，香港經歷了回歸以來最大規模的社會運動，持續了三個多月的反修訂《逃犯條例》風波仍未結束，激烈的示威活動浪接浪。中華人民共和國今年成立七十年，今年的國慶，香港人如何渡過?" 
