@@ -1,7 +1,7 @@
 +++
 title = "Be Water / 自游"
 date = "2019-10-10"
-bgImage = "img/slider-bg.jpg"
+bgImage = "img/slogan-banner.jpg"
 site_category = "music"
 author = "癲佬音樂deenlomusic"
 summary = "An original song dedicated to HKers"

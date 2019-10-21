@@ -1,7 +1,7 @@
 +++
 title = "Glory to Hong Kong / 願榮光歸香港"
 date = "2019-10-09"
-bgImage = "img/slider-bg.jpg"
+bgImage = "img/slogan-banner.jpg"
 site_category = "music"
 author = "Thomas dgx yhl"
 summary = "Also known as 'The Anthem'"

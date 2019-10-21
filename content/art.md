@@ -1,6 +1,6 @@
 +++
 title = "Art"
-bgImage = "img/slider-bg.jpg"
+bgImage = "img/slogan-banner.jpg"
 +++
 
 

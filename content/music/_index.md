@@ -2,7 +2,7 @@
 title = "Music"
 id = "music"
 description = "music"
-bgImage = "img/slider-bg.jpg"
+bgImage = "img/slogan-banner.jpg"
 subtitle = "Collection of musical works that accompanied Hong Kong people's quest for freedom."
 +++
 

@@ -2,7 +2,7 @@
 +++
 title = "試問誰還未發聲"
 date = "2019-10-09"
-bgImage = "img/slider-bg.jpg"
+bgImage = "img/slogan-banner.jpg"
 site_category = "music"
 # author = ""
 summary = "Cantonese version of 'Do you hear the people sing' from the musical Les Miserables"

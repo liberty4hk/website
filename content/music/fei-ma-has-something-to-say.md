@@ -1,7 +1,7 @@
 +++
 title = "肥媽有話兒"
 date = "2019-09-02"
-bgImage = "img/slider-bg.jpg"
+bgImage = "img/slogan-banner.jpg"
 site_category = "music"
 author = "CLS Express"
 summary = "A viral video with edited lyrics, music based on Sia's Chandelier"

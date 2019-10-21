@@ -1,7 +1,7 @@
 +++
 title = "逃"
 date = "2019-06-06"
-bgImage = "img/slider-bg.jpg"
+bgImage = "img/slogan-banner.jpg"
 site_category = "music"
 author = "Arho Sunny"
 summary = "A Song by Arho Sunny"

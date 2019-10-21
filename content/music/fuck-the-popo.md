@@ -1,7 +1,7 @@
 +++
 title = "FUCKTHEPOPO/屌狗"
 date = "2019-10-09"
-bgImage = "img/slider-bg.jpg"
+bgImage = "img/slogan-banner.jpg"
 site_category = "music"
 author = "JB"
 summary = "A legendary piece from our very own rapper - JB"

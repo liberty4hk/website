@@ -1,7 +1,7 @@
 +++
 title = "Sing Hallelujah to the Lord"
 date = "2019-10-09"
-bgImage = "img/slider-bg.jpg"
+bgImage = "img/slogan-banner.jpg"
 site_category = "music"
 # author = ""
 summary = "A Christian hymn that was popularised in the 2019 protests."
