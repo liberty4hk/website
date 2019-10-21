@@ -2,6 +2,7 @@ title = "Liberty for Hong Kong"
 baseURL = "/"
 languageCode = "en-us"
 theme = "airspace-hugo"
+googleAnalytics = "UA-150615847-1"
 
 # The site's parameters
 [params]
