@@ -4,7 +4,7 @@ date = "2019-9-2"
 bgImage = "img/slogan-banner.jpg"
 site_category = "music"
 author = "關淑怡 Shirley Kwan"
-summary = ""
+summary = "警暴版 MV"
 # image = "img/music/be-water.jpg"
 +++
 
