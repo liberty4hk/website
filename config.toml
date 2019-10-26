@@ -132,7 +132,8 @@ googleAnalytics = "UA-150615847-1"
     enable = true
     title = "Liberty for Hong Kong"
     subtitle = "A collaborative project documenting Hong Kong's road to freedom"
-    bgImage = "img/612-central.jpg"
+    # bgImage = "img/612-central.jpg"
+	bgImage = "https://media.giphy.com/media/SRNjrbPmonvoyVQpE1/giphy.gif"
     btnText = "Discover"
     url = "/about/"
 

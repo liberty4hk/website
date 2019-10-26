@@ -34,6 +34,6 @@ You can also contribute new pages, where the main differences versus the process
 - The Markdown documents should be saved directly under `content`, and **not** `content/writing`
 - The content of these pages should be meaningfully different from the page categories that currently exist on the site (e.g. Art, Music, Writing), or at least be significant enough as a stand-alone subject. 
 
-## How to contribute by email / form
+## How to contribute by Twitter
 
-Functionality coming soon.
+DM us on [Twitter](https://twitter.com/liberty_for_hk) with your articles, images, videos, and ideas.

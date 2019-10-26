@@ -1,0 +1,22 @@
+<!-- Affiliated Sites -->
+
+<section id="clients-logo-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+		<h3> Sites we like </h3><br>
+          <div id="clients-logo" class="owl-carousel">
+            {{ range .Site.Data.affiliates.clients }}
+            <div class="clients-logo-img">
+              <a href="{{ .url }}">
+			  <img src="{{ $.Site.BaseURL }}{{ .image }}" alt="Features" width="100px">
+			  </a>
+            </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

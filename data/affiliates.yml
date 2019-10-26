@@ -1,0 +1,26 @@
+enable: true
+title: Affiliated Sites
+subtitle: Sites that we also like
+
+# google support the latest technology for image optimization. you can also optimize your image from https://www.ps2pdf.com/convert-jpg-to-webp here.
+# Originally the "client" section from the themes
+
+# clients section not used at the moment      
+clients:
+  - image: "img/affiliated/leungsumshops.jpg"
+    url: "https://www.leungsumshops.com/"    
+    
+  - image: "img/affiliated/guardians-of-hk.png"
+    url: "https://guardiansofhk.com/"    
+    
+  - image: "img/affiliated/wearehkers.png"
+    url: "https://www.wearehkers.com/main-english"    
+    
+  - image: "img/affiliated/placeholder.jpg"
+    url: "https://www.helphk.info/" 
+    
+  - image: "img/affiliated/freedomhongkong-2.png"
+    url: "https://freedomhongkong.org/en/"    
+    
+  - image: "img/affiliated/wordsofmouth.png"
+    url: "https://www.wordsofmouth.net/"

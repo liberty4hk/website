@@ -2,6 +2,7 @@
 title = "About"
 # id = "work"
 bgImage = "img/slider-bg.jpg"
+include_affiliates = "true"
 +++
 
 
@@ -22,17 +23,9 @@ The 2019 protests against the controversial extradition bill in Hong Kong uneart
 
 ---
 
-## We also like:
+## We also like...
 
-These are websites which share a common cause with us. Do check them out!
-
-<a href="https://www.leungsumshops.com/" class="btn btn-primary" role="button">香港良心Guide</a><br>
-<a href="https://guardiansofhk.com/" class="btn btn-primary" role="button">Guardians of Hong Kong</a><br>
-<a href="https://www.wearehkers.com/main-english" class="btn btn-primary" role="button">We are HKERS</a><br>
-<a href="https://www.helphk.info/" class="btn btn-primary" role="button">Help Hong Kong</a><br>
-<a href="https://freedomhongkong.org/en/" class="btn btn-primary" role="button">Freedom Hong Kong</a>
-<a href="https://www.wordsofmouth.net/" class="btn btn-primary" role="button">Words of Mouth</a>
-
+These are websites which share a common cause with us. Do check them out at the bottom of this page.
 
 
 [^1]: https://blog.twitter.com/en_us/topics/company/2019/information_operations_directed_at_Hong_Kong.html

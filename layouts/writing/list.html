@@ -13,8 +13,8 @@
 		<div class="container">
 			<div class="row">				
 				<!-- <div class="col-md-6"> -->
-				<div class="col-sm-6">		
-				{{ range (.Paginator 12).Pages }}				
+				<div class="col-sm-9">		
+				{{ range (.Paginator 8).Pages }}				
 					<article class="blog-post">
 						{{ with .Params.image }}				
 						<img src="{{ . | absURL }}" class="img-responsive" alt="post-thumb"> 

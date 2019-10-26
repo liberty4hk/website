@@ -25,13 +25,19 @@
 	</section>	
 
 	{{ end }}
+	
+<!-- If a particular id is set, it takes it from the specified partial -->	
+	{{ if isset .Params "include_affiliates" }}	
+		{{ partial "affiliates.html" . }}		
+	{{ end }}
 
 	{{ if and (isset .Site.Params "call") (.Site.Params.call.enable) }}
 		{{ partial "call-to-action.html" . }}
 	{{ end }}
+	
+
 
 	{{ partial "footer.html" . }}
-
 	
 </body>
 </html>
