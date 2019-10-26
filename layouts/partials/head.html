@@ -12,6 +12,7 @@
 <!-- Place favicon.ico and apple-touch-icon.png in the root directory
      or place appropriate <link .../> etc in favicon.html partial -->
 {{ partial "favicon.html" . }}
+{{ partial "analytics.html" . }}
 
 <title>{{ .Title }}</title>
 
@@ -48,4 +49,4 @@
 -->
 {{- partial "head_custom.html" . }}
 
-{{ partials "analytics.html" . }}
+
