@@ -24,3 +24,6 @@ clients:
     
   - image: "img/affiliated/wordsofmouth.png"
     url: "https://www.wordsofmouth.net/"
+    
+  - image: "img/affiliated/hkdemo.png"
+    url: "https://tl.hkrev.info/en/"
